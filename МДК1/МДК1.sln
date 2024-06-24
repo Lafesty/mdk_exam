@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "МДК1", "МДК1\МДК1.vdproj", "{00110D62-A123-47CD-9BD6-813F137C904D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00110D62-A123-47CD-9BD6-813F137C904D}.Debug|Default.ActiveCfg = Debug
+		{00110D62-A123-47CD-9BD6-813F137C904D}.Debug|Default.Build.0 = Debug
+		{00110D62-A123-47CD-9BD6-813F137C904D}.Release|Default.ActiveCfg = Release
+		{00110D62-A123-47CD-9BD6-813F137C904D}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {883AC18C-7659-4E4D-ADC0-BA14B68F661F}
+	EndGlobalSection
+EndGlobal
